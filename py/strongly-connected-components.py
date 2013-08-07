@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-import time
 import sys
 import threading
 threading.stack_size(2**27)
